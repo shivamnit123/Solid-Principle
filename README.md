@@ -1,4 +1,4 @@
-# 😂 SOLID Principles (Explained Like You're 5)
+# SOLID Principles (Explained Like You're 5)😂 
 
 ### 1️⃣ S - Single Responsibility  
 **One person, one job.**  
